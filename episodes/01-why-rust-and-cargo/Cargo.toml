@@ -1,0 +1,9 @@
+[package]
+name = "why-rust-and-cargo"
+version = "0.1.0"
+edition = "2021"
+description = "Episodio 01: Por qué Rust y el ecosistema Cargo - Rust Video Academy"
+authors = ["Rust Video Academy <academy@example.com>"]
+
+[dependencies]
+# No external dependencies required for Episode 01 (Pure Standard Library)

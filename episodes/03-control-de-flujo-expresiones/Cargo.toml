@@ -1,0 +1,7 @@
+[package]
+name = "control-de-flujo-expresiones"
+version = "0.1.0"
+edition = "2021"
+description = "Episodio 03: Control de Flujo Expresivo en Rust: Todo es una Expresión"
+
+[dependencies]

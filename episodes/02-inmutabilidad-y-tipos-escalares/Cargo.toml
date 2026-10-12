@@ -1,0 +1,7 @@
+[package]
+name = "inmutabilidad-y-tipos-escalares"
+version = "0.1.0"
+edition = "2021"
+description = "Episodio 02: Inmutabilidad por Defecto y Tipos Escalares en Rust"
+
+[dependencies]

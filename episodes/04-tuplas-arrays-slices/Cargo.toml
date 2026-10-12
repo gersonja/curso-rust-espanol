@@ -1,0 +1,7 @@
+[package]
+name = "tuplas-arrays-slices"
+version = "0.1.0"
+edition = "2021"
+description = "Episodio 04: Estructuras Fijas en Memoria: Tuplas, Arrays y Slices Básicos"
+
+[dependencies]
